@@ -54,9 +54,6 @@ public class Mian {
         return count;
     }
 
-    public int remove(int key){
-        return -1;
-    }
     public static void main(String[] args) {
 
     }
